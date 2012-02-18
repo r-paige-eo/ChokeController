@@ -1,4 +1,4 @@
-// Control the choke position of a carburated vehicle
+// Control the choke position of a carbureted vehicle
 // with a potentiometer and temp sensing with a TMP36
 //
 // TMP36 Digital Value 140 ~ 65F
