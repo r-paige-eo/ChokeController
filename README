@@ -1,0 +1,3 @@
+A very basic Arduino Sketch for controlling 
+the choke position of a carburated vehicle 
+using a hobby servo and a temp sensor.
